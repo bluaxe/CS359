@@ -4,7 +4,7 @@
 ###a
 
 y=10 / (10-9*x)
-![Figure](https://raw.github.com/bluaxe/CS359/master/ch01/assets/1.14.a.png)
+![Figure](https://raw.github.com/bluaxe/CS359/master/ch01/assets/1_14_a.png)
 
 ###b
 
@@ -214,40 +214,40 @@ it result in needing less entries.
 
 ##2.1
 
-![Figure2.1](https://raw.github.com/bluaxe/CS359/master/practices/assets/2.1.jpg)
+![Figure2.1](https://raw.github.com/bluaxe/CS359/master/practices/assets/2_1.jpg)
 
 
 ##2.2
 
 ###a
 
-![Figure2.2.a](https://raw.github.com/bluaxe/CS359/master/practices/assets/2.2.a.jpg)
+![Figure2.2.a](https://raw.github.com/bluaxe/CS359/master/practices/assets/2_2_a.jpg)
 
 ###b
 
-![Figure2.2.b](https://raw.github.com/bluaxe/CS359/master/practices/assets/2.2.b.jpg)
+![Figure2.2.b](https://raw.github.com/bluaxe/CS359/master/practices/assets/2_2_b.jpg)
 
 ##2.3
 
 ###a
 
-![Figure2.3.a](https://raw.github.com/bluaxe/CS359/master/practices/assets/2.3.a.jpg)
+![Figure2.3.a](https://raw.github.com/bluaxe/CS359/master/practices/assets/2_3_a.jpg)
 
 ###b
 
-![Figure2.3.b](https://raw.github.com/bluaxe/CS359/master/practices/assets/2.3.b.jpg)
+![Figure2.3.b](https://raw.github.com/bluaxe/CS359/master/practices/assets/2_3_b.jpg)
 
 ##2.4
 
 ###a
 
-![Figure2.4.a](https://raw.github.com/bluaxe/CS359/master/practices/assets/2.4.a.jpg)
+![Figure2.4.a](https://raw.github.com/bluaxe/CS359/master/practices/assets/2_4_a.jpg)
 
 ###b
 
-![Figure2.4.b](https://raw.github.com/bluaxe/CS359/master/practices/assets/2.4.b.jpg)
+![Figure2.4.b](https://raw.github.com/bluaxe/CS359/master/practices/assets/2_4_b.jpg)
 
 ##2.5
 
-![Figure2.5](https://raw.github.com/bluaxe/CS359/master/practices/assets/2.5.jpg)
+![Figure2.5](https://raw.github.com/bluaxe/CS359/master/practices/assets/2_5.jpg)
 
