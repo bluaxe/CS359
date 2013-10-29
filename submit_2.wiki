@@ -90,10 +90,12 @@ NOR和NAND存储器的结构导致存储器很难缩小体型。这是因为门�
 
 <blockquote>部分内容摘自《新电脑》杂志
 </blockquote>
-== 3.1 ==
+== 3.1 0x027c ==
 
-0x027c ###A. Virtual address format 13 12 11 10 9 8 7 6 5 4 3 2 1 0 0 0 0 0 1 0 0 1 1 1 1 1 0 0
+=== A. Virtual address format ===
 
+<pre>13 12 11 10 9 8 7 6 5 4 3 2 1 0
+ 0  0  0  0 1 0 0 1 1 1 1 1 0 0</pre>
 === B. Address translate ===
 
 <pre>VPN                 09
@@ -114,10 +116,12 @@ Cache index         F
 Cache tag           17
 Cache hit?(Y/n)     N
 Cache Byte returned -</pre>
-== 3.2 ==
+== 3.2 0x03a9 ==
 
-0x03a9 ###A. Virtual address format 13 12 11 10 9 8 7 6 5 4 3 2 1 0 0 0 0 0 1 1 1 0 1 0 1 0 0 1
+=== A. Virtual address format ===
 
+<pre>13 12 11 10 9 8 7 6 5 4 3 2 1 0
+ 0  0  0  0 1 1 1 0 1 0 1 0 0 1</pre>
 === B. Address translate ===
 
 <pre>VPN                 0E
@@ -138,10 +142,12 @@ Cache index         A
 Cache tag           11
 Cache hit?(Y/n)     N
 Cache Byte returned -</pre>
-== 3.3 ==
+== 3.3 0x0040 ==
 
-0x0040 ###A. Virtual address format 13 12 11 10 9 8 7 6 5 4 3 2 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0
+=== A. Virtual address format ===
 
+<pre>13 12 11 10 9 8 7 6 5 4 3 2 1 0
+ 0  0  0  0 0 0 0 1 0 0 0 0 0 0</pre>
 === B. Address translate ===
 
 <pre>VPN                 01
