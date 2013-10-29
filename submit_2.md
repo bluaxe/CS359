@@ -165,3 +165,4 @@ Intel开发的相变存储器使用了硫属化物（Chalcogenides），这类�
 	TLB hit(Y/n)		N
 	Page fault?(Y/N)	Y
 	PPN					-
+
